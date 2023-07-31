@@ -2,7 +2,7 @@
 // @name         Fahrzeugbesitzer-Button
 // @namespace    www.leitstellenspiel.de
 // @version      1.0
-// @description  Fügt einen Button neben dem Fahrzeugbesitzer-Namen hinzu, der den Namen in den Input mit der ID "mission_reply_content" einfügt.
+// @description  Fügt einen Button neben dem Fahrzeugbesitzer-Namen hinzu, der den Namen in das RMS einfügt.
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/missions/*
 // @grant        none
